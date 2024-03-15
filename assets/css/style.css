@@ -15,6 +15,7 @@ body{
     justify-content: center;
     flex-direction: column;
     gap: 16px;
+    background-image: url(https://s1.best-wallpaper.net/wallpaper/m/1708/Lavender-field-flowers-sunset-France_m.webp);
 }
 .relogio{
     display: flex;
