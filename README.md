@@ -10,7 +10,8 @@
 <p align="center">
   <a href="#ancora1">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ancora2">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#ancora3">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ancora3">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ancora4">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <a id="ancora1"></a>
@@ -27,6 +28,11 @@ Esse projeto foi elaborado  para disciplina de  tecnoclogia para Front-End III. 
 Professor: Alekiss Manço
 
 <a id="ancora3"></a>
-## :framed_picture: Imagens do Site
+## :framed_picture: Link do Site 
+https://gessymelo.github.io/relogio_digital/
 
+<a id="ancora4"></a>
+## :framed_picture: Imagens do Site 
+
+![Captura de tela 2024-03-14 234702](https://github.com/Gessymelo/relogio_digital/assets/111106363/aa06954b-bd6f-4ad7-8c55-56e8eb5c1868)
 
